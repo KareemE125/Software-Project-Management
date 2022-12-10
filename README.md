@@ -1,5 +1,4 @@
 # Software-Project-Management
-Software Project Management
 
 ### Project Requirements:
 1) Mapping of resources and tasks from the tables provided and make any necessary changes.
