@@ -1,5 +1,6 @@
 # Software-Project-Management
 
+
 ### Project Requirements:
 1) Mapping of resources and tasks from the tables provided and make any necessary changes.
 2) Add Milestones to check the finalization for each block of work packages.
@@ -16,6 +17,7 @@
 13) Add all tasks to timeline and call them out.
 14) Deactivate the integration testing summary task and its working packages.
 15) View the overallocated resources.
+
 
 ### Notes:
 1)	Assume Project start date: 1/1/2023.
